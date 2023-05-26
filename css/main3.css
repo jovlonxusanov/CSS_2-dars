@@ -1,0 +1,49 @@
+body{
+    background-color: skyblue;
+}
+.warp{
+    width: 1200px;
+    margin: 50px auto;
+}
+h1{
+    font-size: 40px;
+}
+.ass{
+    width: 100%;
+    height: 60px;
+    line-height: 5px;
+    background-color: darkseagreen;
+    color: white;
+    font-size: 25px;
+}
+.asd{
+    float: left;
+    margin-left: 100px;
+    margin-right: 800px;
+}
+.dsa{
+    float: left;
+}
+.clear{
+    clear: both;
+.ppp{
+    width: 100%;
+    margin-top: 20px;}
+}
+.ppp1{
+    width: 35%;
+    float: left;
+    margin: 0 20px;
+}
+.ppp2{
+    width: 55%;
+    float: left;
+    font-size: 25px;
+    margin: 0 20px;
+}
+.hhh{
+    width: 55%;
+
+}
+
+

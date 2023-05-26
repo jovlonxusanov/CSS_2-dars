@@ -1,0 +1,100 @@
+body{
+    background-color: white;
+}
+.text-block{
+    width: 1200px;
+    margin: 200px auto;
+    background-color: white;
+}
+.hhh{
+    width: 200px;
+    height: 200px;
+    border: 3px solid gray;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    margin: 20px;
+    line-height: 120px;
+}
+.ddd{
+    width: 200px;
+    height: 200px;
+    border: 3px dashed gray;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    margin: 20px;
+    line-height: 120px;
+}
+
+.ppp{
+    width: 200px;
+    height: 200px;
+    border: 3px dotted gray;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    margin: 20px;
+    line-height: 120px;
+}
+.qqq{
+    width: 200px;
+    height: 200px;
+    border: 10px double gray;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    margin: 20px;
+    line-height: 120px;
+}
+.eee{
+    width: 200px;
+    height: 200px;
+    border: 13px inset gray;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    margin: 20px;
+    line-height: 120px;
+}
+.www{
+    width: 200px;
+    height: 200px;
+    border: 13px outset gray;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    margin: 20px;
+    line-height: 120px;
+}
+.xxx{
+    width: 200px;
+    height: 200px;
+    border: 13px groove gray;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    margin: 20px;
+    line-height: 120px;
+}
+.mmm{
+    width: 200px;
+    height: 200px;
+    border: 13px ridge gray;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    margin: 20px;
+    line-height: 120px;
+}
+.clear{
+    clear: both;
+}
